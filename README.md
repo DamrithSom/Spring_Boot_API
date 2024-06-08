@@ -1,4 +1,4 @@
-# Spring Boot API for Student Management
+  # Spring Boot API for Student Management
 
 ## Table of Contents
 - [Overview](#overview)
@@ -37,3 +37,8 @@ Before you begin, ensure you have the following software installed:
    ```sh
    git clone https://github.com/your-username/spring-boot-api-students.git
    cd spring-boot-api-students
+
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
+
